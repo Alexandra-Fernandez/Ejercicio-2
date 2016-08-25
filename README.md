@@ -2,7 +2,7 @@
 Calcula el promedio de tres números
 
 1. INICIO
-2. PEDIR DATOS
+2. LEER DATOS
    - dato 1
    - dato 2
    - dato 3 
